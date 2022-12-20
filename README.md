@@ -31,8 +31,7 @@ I love solving problems and building things that solve those problems! In a prev
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/W1llB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/william-byrne-82665789/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><br>
-  <img src="https://www.codewars.com/users/W1llB/badges/large" alt="codewars"></a>
+<p align="left"> <a href="https://www.github.com/W1llB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/william-byrne-82665789/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges
@@ -42,3 +41,6 @@ I love solving problems and building things that solve those problems! In a prev
 <a href="http://www.github.com/W1llB"><img src="https://github-readme-stats.vercel.app/api?username=W1llB&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="W1llB's GitHub stats" /></a>
 
 <a href="http://www.github.com/W1llB"><img src="https://github-readme-streak-stats.herokuapp.com/?user=W1llB&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<br>
+<img src="https://www.codewars.com/users/W1llB/badges/large" alt="codewars">
