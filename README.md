@@ -7,7 +7,7 @@ I'm an aspiring software developer
 I love solving problems and building things that solve those problems! In a previous life, I designed and opened sustainability hubs in central London but now I spend my time learning as much as I can about the tech world, in particular web development.
 
 * 🌍  I'm based in Manchester
-* 🚀  I'm currently working on [Home Grown, a communal food growing platform]([(https://home-grown.vercel.app/)])
+* 🚀  I'm currently working on [Home Grown](https://home-grown.vercel.app/), a communal food growing platform
 * 🧠  I'm learning Typescript in React.js using the ext.js framework
 * 🤝  I'm open to collaborating on interesting projects, especially around sustainability
 * ⚡  I'm always on the lookout for new and unique music so hit me up if you have any recommendations!
